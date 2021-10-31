@@ -39,7 +39,7 @@ blueprint:
           unit_of_measurement: percentage
           mode: slider
           step: 1.0
-  source_url: https://github.com/apollo1220/blueprints/blob/main/phone_charger.yaml
+  source_url: https://github.com/ChaseCares/blueprints/blob/main/phone_charger.yaml
 mode: single
 max_exceeded: silent
 trigger:
