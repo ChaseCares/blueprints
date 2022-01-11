@@ -34,7 +34,7 @@ trigger:
   from: 'off'
   to: 'on'
 action:
-- service: light.turn_on
+- service: switch.turn_on
   target: !input 'light_target'
 - wait_for_trigger:
     platform: state
