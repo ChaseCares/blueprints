@@ -25,7 +25,7 @@ blueprint:
           unit_of_measurement: seconds
           mode: slider
           step: 1.0
-  source_url: https://community.home-assistant.io/t/door-sensor-turn-on-off-light/255657
+  source_url: https://github.com/ChaseCares/blueprints/blob/main/Door-Sensor-activated-Light.yaml
 mode: single
 max_exceeded: silent
 trigger:
